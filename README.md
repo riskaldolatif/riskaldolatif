@@ -1,5 +1,7 @@
 ### Hi! 👋 I'm Riskaldo.
 
+- 🌱 I’m currently learning web development
+- ⚡ Fun fact: i am newbie
 <!--
 **riskaldolatif/riskaldolatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
